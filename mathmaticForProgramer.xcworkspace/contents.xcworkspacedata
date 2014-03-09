@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:findSlopBetweenTwoPoints/findSlopBetweenTwoPoints/findSlopBetweenTwoPoints.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:linearEqExpression/linearEqExpression/linearEqExpression.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OperatorOverload/setPointByStructOperatorOverload/setPointByStructOperatorOverload.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OperatorOverloading/OperatorOverloading/OperatorOverloading.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:presentPoint/presentPoint.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:determinantFunctionPowOfTwo/determinantFunctionPowOfTwo.xcodeproj">
+   </FileRef>
+</Workspace>
