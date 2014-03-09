@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:findSlopeOfTwoLinearEqAndExpressWhereCertainCoor/findSlopeOfTwoLinearEqAndExpress/findSlopeOfTwoLinearEqAndExpress.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:findSlopBetweenTwoPoints/findSlopBetweenTwoPoints/findSlopBetweenTwoPoints.xcodeproj">
    </FileRef>
    <FileRef
